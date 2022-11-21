@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === 'development') {
   }
 } else {
   corsOptions = {
-    origin: "https://iob.news"
+    origin: "https://frontend-fjhtb5cjgq-ew.a.run.app"
   }
 } 
 
